@@ -3,3 +3,5 @@
 ### This is a second example
 
 *I am Eliana :)*
+
+`#RRGGBB`
