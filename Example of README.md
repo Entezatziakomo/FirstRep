@@ -4,4 +4,5 @@
 
 *I am Eliana :)*
 
-
+**Testing Bold**
+~~Testing a mistaken text~~
